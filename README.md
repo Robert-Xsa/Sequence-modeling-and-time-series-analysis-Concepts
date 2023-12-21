@@ -114,5 +114,10 @@ In summary, while sequence modeling is a broad concept that includes various typ
 
 Synthetic time series refers to artificially generated time-dependent data that mimics the characteristics of real-world time series data. These synthetic datasets are created for various purposes, including testing and evaluating time series models, simulating scenarios, and generating representative data when real data is limited or unavailable.
 
+All process including synthetic dataset creation and the statistical approach used, are found in my kaggle notebook;
+
+https://www.kaggle.com/code/robertgembe/synthetic-time-series
+
+
 
 
