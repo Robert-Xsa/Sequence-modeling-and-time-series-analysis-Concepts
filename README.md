@@ -6,15 +6,15 @@ Sequence modeling involves understanding and analyzing sequences of data, where 
 
 **Applications of Sequence Modeling**
 
-1.Natural Language Processing (NLP)
+1. Natural Language Processing (NLP)
 
 Understanding and generating human language, including tasks like language translation, sentiment analysis, and text summarization.
 
-2.Speech Recognition
+2. Speech Recognition
 
 Converting spoken language into text, used in applications like voice assistants.
 
-3.Time Series Prediction
+3. Time Series Prediction
 
 Predicting future values based on historical data, which brings us to time series analysis.
 
