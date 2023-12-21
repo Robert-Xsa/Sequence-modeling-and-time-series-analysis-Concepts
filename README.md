@@ -157,7 +157,7 @@ Applications synthetic time series are:
 
 # **Sequence prediction using deep neural networks**
 
-Sequence prediction using deep neural networks involves training models to make predictions based on input sequences. Also i used a synthetic time series dataset. 
+Sequence prediction using deep neural networks involves training models to make predictions based on input sequences. Also synthetic time series dataset were used.
 
 All processes were archieved in my kaggle notebook;
 
