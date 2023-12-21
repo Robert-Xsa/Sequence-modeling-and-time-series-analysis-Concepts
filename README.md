@@ -8,15 +8,15 @@ Sequence modeling involves understanding and analyzing sequences of data, where 
 
 1. Natural Language Processing (NLP)
 
-Understanding and generating human language, including tasks like language translation, sentiment analysis, and text summarization.
+   Understanding and generating human language, including tasks like language translation, sentiment analysis, and text summarization.
 
 2. Speech Recognition
 
-Converting spoken language into text, used in applications like voice assistants.
+   Converting spoken language into text, used in applications like voice assistants.
 
 3. Time Series Prediction
 
-Predicting future values based on historical data, which brings us to time series analysis.
+   Predicting future values based on historical data, which brings us to time series analysis.
 
 # **Time Series Analysis**
 
@@ -26,15 +26,29 @@ Time series analysis is a specific type of sequence modeling that focuses on stu
 
 1. Trend Analysis
 
-Identifying the long-term movement or pattern in the data, whether it's increasing, decreasing, or remaining stable over time.
+   Identifying the long-term movement or pattern in the data, whether it's increasing, decreasing, or remaining stable over time.
 
 2. Seasonality
 
-Recognizing repeating patterns or cycles within the data, often influenced by factors like seasons, months, or days of the week.
+   Recognizing repeating patterns or cycles within the data, often influenced by factors like seasons, months, or days of the week.
 
 3. Autocorrelation
    
-Studying the correlation of a time series with its own past values at different time lags.
+   Studying the correlation of a time series with its own past values at different time lags.
+
+**Applications of Time Series Analysis**
+
+1. Financial Forecasting
+   
+   Predicting stock prices, currency exchange rates, or commodity prices.
+
+3. Demand Forecasting
+   
+   Predicting future demand for products or services based on historical sales data.
+
+5. Energy Consumption Prediction
+   
+   Forecasting energy usage patterns for efficient resource allocation.
 
 # **NOTE;**
 
