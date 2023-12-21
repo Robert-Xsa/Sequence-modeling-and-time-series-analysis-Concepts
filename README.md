@@ -17,3 +17,7 @@ Converting spoken language into text, used in applications like voice assistants
 3.Time Series Prediction
 
 Predicting future values based on historical data, which brings us to time series analysis.
+
+# **Time Series Analysis**
+
+Time series analysis is a specific type of sequence modeling that focuses on studying and modeling data points collected over time. Time series data exhibits temporal dependencies, where the order of observations matters.
