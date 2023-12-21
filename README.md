@@ -118,6 +118,18 @@ All process including synthetic dataset creation and the statistical approach us
 
 https://www.kaggle.com/code/robertgembe/synthetic-time-series
 
+Key aspects of synthetic time series are:
+
+1. Statistical Properties
+   Synthetic time series are designed to capture statistical properties such as mean, variance, autocorrelation, and seasonality,    
+   similar to real-world time series data.
+
+2. Temporal Patterns
+   These datasets often include temporal patterns, trends, and seasonality to simulate the complexity of actual time series data.
+
+3. Noise and Anomalies
+   Synthetic time series may incorporate random noise and anomalies to reflect the stochastic nature and unexpected events present in 
+   real-world data.
 
 
 
