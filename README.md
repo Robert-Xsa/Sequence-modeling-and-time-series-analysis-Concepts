@@ -56,45 +56,46 @@ Time series analysis is a specific type of sequence modeling that focuses on stu
 
 6. Healthcare and Epidemiology
    
-   Monitoring and predicting the spread of diseases, patient admissions, and healthcare resource utilization. Time series analysis can assist in identifying trends and making informed       decisions.
+   Monitoring and predicting the spread of diseases, patient admissions, and healthcare resource utilization. Time series analysis can assist in identifying trends and making informed
+   decisions.
 
 7.Traffic Flow Prediction
 
   Analyzing historical traffic data to predict congestion patterns, optimize traffic signal timings, and enhance transportation planning.
 
 8. Manufacturing and Supply Chain
-    
+   
    Forecasting demand for raw materials, predicting production outputs, and optimizing inventory levels to improve supply chain efficiency.
 
-9. Telecommunications
+10. Telecommunications
     
     Analyzing call data records to predict network congestion, plan capacity, and optimize network performance.
 
-10. Environmental Monitoring
+11. Environmental Monitoring
     
     Predicting pollution levels, analyzing changes in environmental parameters over time, and assessing the impact of human activities on ecosystems.
 
-11. Retail Sales Forecasting
+12. Retail Sales Forecasting
     
     Predicting future sales based on historical sales data, enabling better inventory management and demand planning.
 
-12. Quality Control
+13. Quality Control
     
     Monitoring and predicting quality metrics in manufacturing processes over time to ensure product quality.
 
-13. Human Resource Management
+14. Human Resource Management
     
     Forecasting employee turnover, analyzing workforce trends, and optimizing staffing levels based on historical HR data.
 
-14. Energy Market Trading
+15. Energy Market Trading
     
     Predicting future energy prices in electricity markets to make informed decisions about buying and selling energy.
 
-15. Internet of Things (IoT) Data Analysis
+16. Internet of Things (IoT) Data Analysis
     
     Analyzing time-stamped data from sensors and devices to monitor and predict system behavior, detect anomalies, and optimize performance.
 
-16. Social Media Analysis
+17. Social Media Analysis
     
     Studying trends and user engagement over time on platforms like Twitter, Facebook, and Instagram for marketing and business intelligence.
 
