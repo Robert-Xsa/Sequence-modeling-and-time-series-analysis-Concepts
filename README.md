@@ -1,4 +1,4 @@
-# Sequence modeling and time series analysis Concepts
+# SEQUENCE MODELING AND TIME SERIES ANALYSIS CONCEPTS
 
 # **Sequence Modeling**
 
