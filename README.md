@@ -46,55 +46,55 @@ Time series analysis is a specific type of sequence modeling that focuses on stu
    
    Predicting future demand for products or services based on historical sales data.
 
-5. Energy Consumption Prediction
+4. Energy Consumption Prediction
    
    Forecasting energy usage patterns for efficient resource allocation.
 
-6 Weather Forecasting
+5. Weather Forecasting
 
-  Analyzing historical weather data to predict future weather conditions. This is crucial for agriculture, disaster management, and various industries affected by weather patterns.
+   Analyzing historical weather data to predict future weather conditions. This is crucial for agriculture, disaster management, and various industries affected by weather patterns.
 
-7. Healthcare and Epidemiology
+6. Healthcare and Epidemiology
    
    Monitoring and predicting the spread of diseases, patient admissions, and healthcare resource utilization. Time series analysis can assist in identifying trends and making informed       decisions.
 
-8.Traffic Flow Prediction
+7.Traffic Flow Prediction
 
   Analyzing historical traffic data to predict congestion patterns, optimize traffic signal timings, and enhance transportation planning.
 
-9. Manufacturing and Supply Chain
+8. Manufacturing and Supply Chain
     
    Forecasting demand for raw materials, predicting production outputs, and optimizing inventory levels to improve supply chain efficiency.
 
-10. Telecommunications
+9. Telecommunications
     
     Analyzing call data records to predict network congestion, plan capacity, and optimize network performance.
 
-11. Environmental Monitoring
+10. Environmental Monitoring
     
     Predicting pollution levels, analyzing changes in environmental parameters over time, and assessing the impact of human activities on ecosystems.
 
-12. Retail Sales Forecasting
+11. Retail Sales Forecasting
     
     Predicting future sales based on historical sales data, enabling better inventory management and demand planning.
 
-13. Quality Control
+12. Quality Control
     
     Monitoring and predicting quality metrics in manufacturing processes over time to ensure product quality.
 
-14. Human Resource Management
+13. Human Resource Management
     
     Forecasting employee turnover, analyzing workforce trends, and optimizing staffing levels based on historical HR data.
 
-15. Energy Market Trading
+14. Energy Market Trading
     
     Predicting future energy prices in electricity markets to make informed decisions about buying and selling energy.
 
-16. Internet of Things (IoT) Data Analysis
+15. Internet of Things (IoT) Data Analysis
     
     Analyzing time-stamped data from sensors and devices to monitor and predict system behavior, detect anomalies, and optimize performance.
 
-17. Social Media Analysis
+16. Social Media Analysis
     
     Studying trends and user engagement over time on platforms like Twitter, Facebook, and Instagram for marketing and business intelligence.
 
