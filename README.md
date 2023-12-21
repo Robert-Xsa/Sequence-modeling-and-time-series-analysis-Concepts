@@ -185,3 +185,19 @@ Implementation of time series prediction using CNNs are found in the following m
 https://www.kaggle.com/code/robertgembe/time-series-data-prediction-using-convolutions
 
 # **Time Series Datasets Preprocessing**
+
+Time series data preprocessing is a crucial step in preparing your data for analysis or training predictive models. The specific preprocessing steps can vary depending on the characteristics of your data and the requirements of your analysis or model.
+
+The original dataset is;
+
+https://www.kaggle.com/datasets/sevgisarac/temperature-change
+
+The dataset it consists the temperature changes of different countries since 1961 to 2020 throughout the year. I preprocessed the dataset for only one country which is Afghanistan. All the steps involved in the preprocessing the datasets are found in the following my kaggle notebook.
+
+https://www.kaggle.com/code/robertgembe/time-series-datasets-preprocessing
+
+After preprocess the dataset, i created my dataset which is found through the following link;
+
+https://www.kaggle.com/datasets/robertgembe/temperature-change-of-afghanistan
+
+And this dataset were used in the next section. You can preprocess the origin dataset based on your needs.
