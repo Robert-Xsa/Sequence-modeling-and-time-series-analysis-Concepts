@@ -201,3 +201,5 @@ After preprocess the dataset, i created my dataset which is found through the fo
 https://www.kaggle.com/datasets/robertgembe/temperature-change-of-afghanistan
 
 And this dataset were used in the next section. You can preprocess the origin dataset based on your needs.
+
+# **Using RNNs for Sequence Modeling**
