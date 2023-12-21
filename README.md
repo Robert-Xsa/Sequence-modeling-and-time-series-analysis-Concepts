@@ -210,3 +210,12 @@ Implementation of how Recurrent Neural Network (RNNs) were used for Sequence Mod
 
 https://www.kaggle.com/code/robertgembe/using-rnns-for-sequence-modeling
 
+# **Conclusion**
+
+This repository is a crash course which consists different concepts on how to deal with sequence data and time series datasets. Don't forget to put a star if your interested in this repository. Also don't forget to votes on my kaggle notebooks if you like the concepts.
+
+For any issue related to data science you may find me via;
+
+Email: gemberobert1@gmail.com
+
+WhatsApp: +255757685690
