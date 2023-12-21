@@ -52,11 +52,11 @@ Time series analysis is a specific type of sequence modeling that focuses on stu
 
 5. Weather Forecasting
 
-   Analyzing historical weather data to predict future weather conditions. This is crucial for agriculture, disaster management, and various industries affected by weather patterns.
-
+   Analyzing historical weather data to predict future weather conditions. This is crucial for agriculture, disaster management, and        various industries affected by weather patterns.
+   
 6. Healthcare and Epidemiology
    
-   Monitoring and predicting the spread of diseases, patient admissions, and healthcare resource utilization. Time series analysis can assist in identifying trends and making informed
+   Monitoring and predicting the spread of diseases, patient admissions, and healthcare resource utilization. Time series analysis can      assist in identifying trends and making informed
    decisions.
 
 7.Traffic Flow Prediction
