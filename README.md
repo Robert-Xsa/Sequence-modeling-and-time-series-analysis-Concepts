@@ -110,4 +110,9 @@ This repository focus much on Time series Analysis Concepts
 
 In summary, while sequence modeling is a broad concept that includes various types of sequential data, time series analysis is a specific subset focused on temporal patterns in data collected over time. Sequence modeling techniques, especially RNNs and LSTMs, are often employed in time series analysis to make predictions or extract meaningful information from temporal data.
 
+# **Synthetic time series**
+
+Synthetic time series refers to artificially generated time-dependent data that mimics the characteristics of real-world time series data. These synthetic datasets are created for various purposes, including testing and evaluating time series models, simulating scenarios, and generating representative data when real data is limited or unavailable.
+
+
 
