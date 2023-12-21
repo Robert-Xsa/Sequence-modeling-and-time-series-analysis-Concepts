@@ -184,7 +184,7 @@ Implementation of time series prediction using CNNs are found in the following m
 
 https://www.kaggle.com/code/robertgembe/time-series-data-prediction-using-convolutions
 
-# **Time Series Datasets Preprocessing**
+# **Public Time Series Datasets Preprocessing**
 
 Time series data preprocessing is a crucial step in preparing your data for analysis or training predictive models. The specific preprocessing steps can vary depending on the characteristics of your data and the requirements of your analysis or model.
 
