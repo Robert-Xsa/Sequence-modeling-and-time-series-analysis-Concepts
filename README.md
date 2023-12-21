@@ -165,4 +165,14 @@ https://www.kaggle.com/code/robertgembe/sequence-prediction-using-deep-neural-ne
 
 # **Time Series Prediction Using Deep Neural Networks**
 
+Time series prediction using deep neural networks involves training models to make predictions based on historical time-dependent data.
+Synthetic time series dataset were used to demonstrate the concepts.
+
+All processes were archieved in my kaggle notebook;
+
+https://www.kaggle.com/code/robertgembe/time-series-data-prediction-using-dnn
+
+**Exploring Hyperparameter Tuning with Keras Tuner**
+
+Keras Tuner is a library that helps you optimize hyperparameters for your Keras models. It allows you to efficiently search through a hyperparameter space and find the optimal set of hyperparameters for your neural network. This library was also used starting from these section to the rest notebooks follows below.
 
