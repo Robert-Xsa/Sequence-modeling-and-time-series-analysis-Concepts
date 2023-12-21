@@ -107,3 +107,7 @@ Time series analysis is a specific type of sequence modeling that focuses on stu
 # **NOTE;**
 
 This repository focus much on Time series Analysis Concepts
+
+In summary, while sequence modeling is a broad concept that includes various types of sequential data, time series analysis is a specific subset focused on temporal patterns in data collected over time. Sequence modeling techniques, especially RNNs and LSTMs, are often employed in time series analysis to make predictions or extract meaningful information from temporal data.
+
+
