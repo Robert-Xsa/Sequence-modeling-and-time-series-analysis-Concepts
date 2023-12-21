@@ -20,4 +20,4 @@ Predicting future values based on historical data, which brings us to time serie
 
 # **Time Series Analysis**
 
-Time series analysis is a specific type of sequence modeling that focuses on studying and modeling data points collected over time. Time series data exhibits temporal dependencies, where the order of observations matters.
+Time series analysis is a specific type of sequence modeling that focuses on studying and modeling data points collected over time. Time series data exhibits temporal dependencies, where the order of observations matters. Key concepts in time series analysis include trend analysis, seasonality, and autocorrelation.
