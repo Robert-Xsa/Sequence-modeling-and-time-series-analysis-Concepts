@@ -162,3 +162,7 @@ Sequence prediction using deep neural networks involves training models to make 
 All processes were archieved in my kaggle notebook;
 
 https://www.kaggle.com/code/robertgembe/sequence-prediction-using-deep-neural-network
+
+# **Time Series Prediction Using Deep Neural Networks**
+
+
