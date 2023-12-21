@@ -59,13 +59,15 @@ Time series analysis is a specific type of sequence modeling that focuses on stu
    Monitoring and predicting the spread of diseases, patient admissions, and healthcare resource utilization. Time series analysis can      assist in identifying trends and making informed
    decisions.
 
-7.Traffic Flow Prediction
+7. Traffic Flow Prediction
 
-  Analyzing historical traffic data to predict congestion patterns, optimize traffic signal timings, and enhance transportation planning.
+   Analyzing historical traffic data to predict congestion patterns, optimize traffic signal timings, and enhance transportation 
+   planning.
 
 8. Manufacturing and Supply Chain
    
-   Forecasting demand for raw materials, predicting production outputs, and optimizing inventory levels to improve supply chain efficiency.
+   Forecasting demand for raw materials, predicting production outputs, and optimizing inventory levels to improve supply chain 
+   efficiency.
 
 10. Telecommunications
     
@@ -73,7 +75,8 @@ Time series analysis is a specific type of sequence modeling that focuses on stu
 
 11. Environmental Monitoring
     
-    Predicting pollution levels, analyzing changes in environmental parameters over time, and assessing the impact of human activities on ecosystems.
+    Predicting pollution levels, analyzing changes in environmental parameters over time, and assessing the impact of human activities 
+    on ecosystems.
 
 12. Retail Sales Forecasting
     
@@ -93,11 +96,13 @@ Time series analysis is a specific type of sequence modeling that focuses on stu
 
 16. Internet of Things (IoT) Data Analysis
     
-    Analyzing time-stamped data from sensors and devices to monitor and predict system behavior, detect anomalies, and optimize performance.
+    Analyzing time-stamped data from sensors and devices to monitor and predict system behavior, detect anomalies, and optimize 
+    performance.
 
 17. Social Media Analysis
     
-    Studying trends and user engagement over time on platforms like Twitter, Facebook, and Instagram for marketing and business intelligence.
+    Studying trends and user engagement over time on platforms like Twitter, Facebook, and Instagram for marketing and business 
+    intelligence.
 
 # **NOTE;**
 
