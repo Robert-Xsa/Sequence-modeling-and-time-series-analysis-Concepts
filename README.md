@@ -176,5 +176,11 @@ https://www.kaggle.com/code/robertgembe/time-series-data-prediction-using-dnn
 
 Keras Tuner is a library that helps you optimize hyperparameters for your Keras models. It allows you to efficiently search through a hyperparameter space and find the optimal set of hyperparameters for your neural network. This library was also used starting from these section to the rest notebooks follows below.
 
-# **Time Series Data Prediction Using Convolutions**
+# **Time Series Prediction Using Convolutions**
+
+Time series prediction using convolutional neural networks (CNNs) can be effective, especially when the data exhibits spatial patterns or local dependencies. While CNNs are traditionally used for image-related tasks, they can also be adapted for one-dimensional sequential data, such as time series.
+
+Implementation of time series prediction using CNNs are found in the following my kaggle notebook;
+
+https://www.kaggle.com/code/robertgembe/time-series-data-prediction-using-convolutions
 
