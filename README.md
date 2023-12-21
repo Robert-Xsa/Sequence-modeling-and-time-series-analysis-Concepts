@@ -155,3 +155,5 @@ Applications synthetic time series are:
    Synthetic time series are useful for educational purposes, providing students with diverse datasets for learning and experimenting    
    with time series analysis techniques.
 
+# **Sequence prediction using deep neural networks**
+
