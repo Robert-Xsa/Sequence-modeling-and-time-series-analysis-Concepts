@@ -21,3 +21,17 @@ Predicting future values based on historical data, which brings us to time serie
 # **Time Series Analysis**
 
 Time series analysis is a specific type of sequence modeling that focuses on studying and modeling data points collected over time. Time series data exhibits temporal dependencies, where the order of observations matters. Key concepts in time series analysis include trend analysis, seasonality, and autocorrelation.
+
+**Components of Time Series Analysis**
+
+1. Trend Analysis
+
+Identifying the long-term movement or pattern in the data, whether it's increasing, decreasing, or remaining stable over time.
+
+2. Seasonality
+
+Recognizing repeating patterns or cycles within the data, often influenced by factors like seasons, months, or days of the week.
+
+3. Autocorrelation
+   
+Studying the correlation of a time series with its own past values at different time lags.
