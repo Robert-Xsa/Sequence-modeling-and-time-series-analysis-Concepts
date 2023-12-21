@@ -35,3 +35,7 @@ Recognizing repeating patterns or cycles within the data, often influenced by fa
 3. Autocorrelation
    
 Studying the correlation of a time series with its own past values at different time lags.
+
+# **NOTE;**
+
+This repository focus much on Time series Analysis Concepts
