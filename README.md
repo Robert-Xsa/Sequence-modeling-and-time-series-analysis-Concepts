@@ -203,3 +203,6 @@ https://www.kaggle.com/datasets/robertgembe/temperature-change-of-afghanistan
 And this dataset were used in the next section. You can preprocess the origin dataset based on your needs.
 
 # **Using Recurrent Neural Network (RNN) for Sequence Modeling**
+
+Using Recurrent Neural Networks (RNNs) for sequence modeling involves leveraging the unique architecture of RNNs to capture and learn patterns in sequential data. RNNs are designed to handle sequences of variable length and are well-suited for tasks where the order of data points matters.
+
