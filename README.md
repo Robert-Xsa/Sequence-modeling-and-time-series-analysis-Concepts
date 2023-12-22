@@ -104,7 +104,7 @@ Time series analysis is a specific type of sequence modeling that focuses on stu
     Studying trends and user engagement over time on platforms like Twitter, Facebook, and Instagram for marketing and business 
     intelligence.
 
-# **NOTE;**
+# **NOTE**
 
 This repository focus much on Time series Analysis Concepts
 
