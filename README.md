@@ -131,7 +131,7 @@ Key aspects of synthetic time series are:
    Synthetic time series may incorporate random noise and anomalies to reflect the stochastic nature and unexpected events present in 
    real-world data.
 
-Applications synthetic time series are:
+Applications of synthetic time series are:
 
 1. Model Testing and Validation
    
